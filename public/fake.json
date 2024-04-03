@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "The Impact of Renewable Energy on Global Sustainability",
+      "banner_img": "https://i.ibb.co/4VmXsZS/jorg-angeli-CAMw-Ix-Yk5-Xg-unsplash.jpg",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/Nn9s3yG/sigmund-a19-OVaa2rz-A-unsplash.jpg",
+      "published_date": "2024-04-03",
+      "reading_time": 15,
+      "tags": ["environment", "renewable energy", "sustainability"]
+    },
+    {
+      "id": 2,
+      "title": "Unlocking the Potential of Blockchain Technology",
+      "banner_img": "https://i.ibb.co/4VmXsZS/jorg-angeli-CAMw-Ix-Yk5-Xg-unsplash.jpg",
+      "author": "Michael Smith",
+      "author_img": "https://i.ibb.co/Nn9s3yG/sigmund-a19-OVaa2rz-A-unsplash.jpg",
+      "published_date": "2024-04-02",
+      "reading_time": 10,
+      "tags": ["blockchain", "technology", "cryptocurrency"]
+    },
+    {
+      "id": 3,
+      "title": "The Art of Mindfulness: Cultivating Peace in a Busy World",
+      "banner_img": "https://i.ibb.co/4VmXsZS/jorg-angeli-CAMw-Ix-Yk5-Xg-unsplash.jpg",
+      "author": "Sophia Johnson",
+      "author_img": "https://i.ibb.co/Nn9s3yG/sigmund-a19-OVaa2rz-A-unsplash.jpg",
+      "published_date": "2024-04-01",
+      "reading_time": 8,
+      "tags": ["mindfulness", "self-improvement", "wellness"]
+    },
+    {
+      "id": 4,
+      "title": "Exploring the Wonders of Space: A Journey Beyond Earth",
+      "banner_img": "https://i.ibb.co/4VmXsZS/jorg-angeli-CAMw-Ix-Yk5-Xg-unsplash.jpg",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/Nn9s3yG/sigmund-a19-OVaa2rz-A-unsplash.jpg",
+      "published_date": "2024-03-31",
+      "reading_time": 20,
+      "tags": ["space", "astronomy", "exploration"]
+    },
+    {
+      "id": 5,
+      "title": "The Evolution of Artificial Intelligence in Healthcare",
+      "banner_img": "https://i.ibb.co/4VmXsZS/jorg-angeli-CAMw-Ix-Yk5-Xg-unsplash.jpg",
+      "author": "Emma Davis",
+      "author_img": "https://i.ibb.co/Nn9s3yG/sigmund-a19-OVaa2rz-A-unsplash.jpg",
+      "published_date": "2024-03-30",
+      "reading_time": 12,
+      "tags": ["artificial intelligence", "healthcare", "technology"]
+    }
+  ]
+  
